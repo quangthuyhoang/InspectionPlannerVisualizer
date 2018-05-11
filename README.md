@@ -1,5 +1,8 @@
 # Inspection Planner Visualizer
 
+![a relative link](img/picture1.png)
+![a relative link](img/picture2.png)
+
 ### Usage:
 1. Inspector Import csv file containing businesses to inspect 
 2. Macro will then organized and check for eligible business ready for inspection
