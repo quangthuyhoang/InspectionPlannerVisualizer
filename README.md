@@ -1,7 +1,7 @@
 # Inspection Planner Visualizer
 
-![a relative link](img/picture1.png)
-![a relative link](img/picture2.png)
+![a relative link](img/picture1.PNG)
+![a relative link](img/picture2.PNG)
 
 ### Usage:
 1. Inspector Import csv file containing businesses to inspect 
